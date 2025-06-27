@@ -51,7 +51,7 @@ After the analysis is complete and the PDF report is generated, an interactive m
 
 ```
 Welcome to the Academic Paper Review Helper!
-Please enter the full path to your PDF or LaTeX file: /Users/dw2022/Desktop/my_paper.pdf
+Please enter the full path to your PDF or LaTeX file: /Users/YOUR_USER/Desktop/my_paper.pdf
 Please enter the desired name for the output PDF report (e.g., report.pdf): my_paper_review.pdf
 --- Analysis Complete! ---
 Report will be saved to my_paper_review.pdf
